@@ -1,0 +1,100 @@
+body {
+    padding: 0px;
+}
+
+.footer {
+    width: 100%;
+    background-color: rgb(75, 70, 70);
+    bottom: 0;
+    position: fixed;
+    padding: 0px;
+    overflow-y: scroll;
+}
+
+.col-md-2 h1 {
+    color: #f5f5f5;
+    font-size: 100%;
+}
+
+.col-md-2 ul {
+    list-style-type: none;
+}
+
+.f1 li a {
+    color: #f5f5f5;
+}
+
+.f1 li a:hover {
+    color: rgb(106, 163, 238);
+}
+
+.f2 form {
+    border: 3px;
+}
+
+.f2 form .contact-input {
+    background-color: #f5f5f5;
+    padding: 2px;
+    margin: 5px;
+    height: 30px;
+}
+
+.col-md-2 .f2 form .button-big {
+    background-color: rgb(202, 192, 192);
+    padding: 0px;
+    margin: 5px;
+    font-size: 14px;
+    height: 30px;
+    width: 180px;
+}
+
+.copyright {
+    color: #f5f5f5;
+    font-size: 18px;
+    text-align: right;
+    margin-right: 40px;
+}
+
+.c1 p:hover {
+    color: rgb(106, 163, 238);
+    cursor: pointer;
+    ;
+}
+
+.f3 a i {
+    font-size: 20px;
+    padding: 2px;
+    width: 25px;
+    height: 25px;
+    margin: 2px;
+    text-align: center;
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
+.fa-facebook {
+    background: #4267b2;
+    color: white;
+}
+
+.fa-twitter {
+    background: #38A1F3;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #0077B5;
+    color: white;
+}
+
+.fa-instagram {
+    background: rgb(236, 56, 155);
+    color: #f5f5f5;
+}
+
+.fa-google {
+    background: red;
+    color: white;
+}
